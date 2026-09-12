@@ -58,8 +58,9 @@ The models are evaluated using:
 
 The project also includes class-wise performance reports and a comparison of the candidate models.
 
-##Repository Structure
+## Repository Structure
 
+```text
 student-academic-performance-prediction/
 │
 ├── student_performance.py
@@ -77,3 +78,4 @@ student-academic-performance-prediction/
     ├── knn_confusion_matrix.png
     ├── logistic_confusion_matrix.png
     └── model_comparison.png
+```
