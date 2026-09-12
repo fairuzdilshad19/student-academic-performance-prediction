@@ -59,6 +59,7 @@ The models are evaluated using:
 The project also includes class-wise performance reports and a comparison of the candidate models.
 
 ##Repository Structure
+
 student-academic-performance-prediction/
 │
 ├── student_performance.py
