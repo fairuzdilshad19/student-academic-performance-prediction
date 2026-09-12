@@ -58,22 +58,21 @@ The models are evaluated using:
 
 The project also includes class-wise performance reports and a comparison of the candidate models.
 
-## Repository Structure
-```text
+##Repository Structure
 student-academic-performance-prediction/
 │
-├── Student Performance Project/
-│   ├── student_performance.py
-│   ├── StressLevelDataset.csv
-│   │
-│   └── figures/
-│       ├── graph1.png
-│       ├── graph2.png
-│       ├── graph3.png
-│       ├── graph4.png
-│       ├── knn_confusion_matrix.png
-│       ├── logistic_confusion_matrix.png
-│       └── model_comparison.png
-│
+├── student_performance.py
+├── StressLevelDataset.csv
+├── data_dictionary.md
+├── final_project_report.docx
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+│
+└── figures/
+    ├── graph1.png
+    ├── graph2.png
+    ├── graph3.png
+    ├── graph4.png
+    ├── knn_confusion_matrix.png
+    ├── logistic_confusion_matrix.png
+    └── model_comparison.png
